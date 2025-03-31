@@ -188,7 +188,6 @@ footer = """
     align-items: center;
     justify-items: center;
 ">
-    <img style="width: 4rem; height: 3.5rem; margin-right: 1rem; border-radius: 1rem" src="https://m.media-amazon.com/images/M/MV5BYmMzNTlhZjItYWJiOC00MzdiLTgzYmUtMTE4ZmY3MGNlY2M1XkEyXkFqcGc@._V1_FMjpg_UX1068_.jpg" alt='test'/>
     <a href="https://github.com/swati825" target="_blank">
         <button style="background-color: #24292e; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;">
             ⭐ Follow Me on GitHub
